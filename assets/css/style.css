@@ -11,6 +11,8 @@
     --highlight-color-light: #7a9fc2; /* light blue */
 }
 
+/*Global Styles*/
+
 body {
     font-family: var(--primary-font);
 }
@@ -26,6 +28,11 @@ h3 {
 .sub-heading-color {
     color:var(--highlight-color)
     
+}
+
+.section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 /*Navbar */
