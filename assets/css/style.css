@@ -103,6 +103,10 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+.table {
+    max-width: 100%;
+}
+
 /*Footer / contact */
 
 #contact{
