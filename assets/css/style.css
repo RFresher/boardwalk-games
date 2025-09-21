@@ -107,6 +107,12 @@ h2 {
     max-width: 100%;
 }
 
+#student-discount {
+    max-width: 320px;
+    background-color: var(--highlight-color);
+    color: white;
+}
+
 /*Footer / contact */
 
 #contact{
